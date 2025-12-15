@@ -1,0 +1,27 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# QGIS
+*.qgz~
+*.qgs~
+*.qgd
+*.aux.xml
+
+# ArcGIS / geodatabases
+*.gdb/
+*.lock
+
+# Raster data (large files)
+*.tif
+*.tiff
+*.img
+*.ecw
+*.sid
+
+# Python
+__pycache__/
+*.pyc
+.venv/
